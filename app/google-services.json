@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "828447205155",
+    "firebase_url": "https://saveme-f9922.firebaseio.com",
+    "project_id": "saveme-f9922",
+    "storage_bucket": "saveme-f9922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828447205155:android:64f902fc5deb563b",
+        "android_client_info": {
+          "package_name": "com.ronixcorporation.saveme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828447205155-r52bcp819dt042ukbnki5asfm9fq4gbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronixcorporation.saveme",
+            "certificate_hash": "4a5ecf4a7008fe20fe1c95ef4227a588f0a23eba"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAft9uPlM4Mn_sjufrp4ZVOa4kgn9dioJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828447205155-i88clujkfr3ur8ud6f4krukl1s28prlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
